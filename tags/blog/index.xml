@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Levi Odom</title>
+    <link>https://www.leviodom.com/tags/blog/</link>
+    <description>Recent content in blog on Levi Odom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 May 2023 23:45:44 -0500</lastBuildDate><atom:link href="https://www.leviodom.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Plan</title>
+      <link>https://www.leviodom.com/posts/theplan/</link>
+      <pubDate>Tue, 02 May 2023 23:45:44 -0500</pubDate>
+      
+      <guid>https://www.leviodom.com/posts/theplan/</guid>
+      <description>Around 3 years ago, I was told by somewhat reputable sources on the Internet that having a website was a great way to impress prospective employers. This was with the idea that I’d be applying for software design positions, and a website is an excellent way to display a portfolio… that is, if I had one. So I purchased my name in website form - the commercial suffix, naturally - and a piece of a server somewhere I could put some files for other people to see.</description>
+    </item>
+    
+  </channel>
+</rss>

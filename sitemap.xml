@@ -2,17 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.leviodom.com/blog/</loc>
-    <lastmod>2023-05-11T00:21:02-05:00</lastmod>
-  </url><url>
     <loc>https://www.leviodom.com/</loc>
     <lastmod>2023-05-11T00:21:02-05:00</lastmod>
   </url><url>
-    <loc>https://www.leviodom.com/blog/under_construction/</loc>
+    <loc>https://www.leviodom.com/posts/</loc>
     <lastmod>2023-05-11T00:21:02-05:00</lastmod>
   </url><url>
-    <loc>https://www.leviodom.com/categories/</loc>
-  </url><url>
     <loc>https://www.leviodom.com/tags/</loc>
+    <lastmod>2023-05-11T00:21:02-05:00</lastmod>
+  </url><url>
+    <loc>https://www.leviodom.com/tags/under-construction/</loc>
+    <lastmod>2023-05-11T00:21:02-05:00</lastmod>
+  </url><url>
+    <loc>https://www.leviodom.com/posts/under_construction/</loc>
+    <lastmod>2023-05-11T00:21:02-05:00</lastmod>
+  </url><url>
+    <loc>https://www.leviodom.com/tags/blog/</loc>
+    <lastmod>2023-05-02T23:45:44-05:00</lastmod>
+  </url><url>
+    <loc>https://www.leviodom.com/tags/plan/</loc>
+    <lastmod>2023-05-02T23:45:44-05:00</lastmod>
+  </url><url>
+    <loc>https://www.leviodom.com/posts/theplan/</loc>
+    <lastmod>2023-05-02T23:45:44-05:00</lastmod>
+  </url><url>
+    <loc>https://www.leviodom.com/categories/</loc>
   </url>
 </urlset>
