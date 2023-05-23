@@ -1,14 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Levi Odom </title>
-        <link>https://www.leviodom.com/</link>
-        <language>en-us</language>
-        <author>Levi Odom</author>
-        <rights>(c) 2023</rights>
-        <updated>2023-05-11 00:21:02 -0500 CDT</updated>
-
-        
-        
-        
-    </channel>
+  <channel>
+    <title>Levi Odom</title>
+    <link>https://www.leviodom.com/</link>
+    <description>Recent content on Levi Odom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright :copyright: Levi Odom</copyright>
+    <lastBuildDate>Tue, 02 May 2023 23:45:44 -0500</lastBuildDate><atom:link href="https://www.leviodom.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Plan</title>
+      <link>https://www.leviodom.com/posts/theplan/</link>
+      <pubDate>Tue, 02 May 2023 23:45:44 -0500</pubDate>
+      
+      <guid>https://www.leviodom.com/posts/theplan/</guid>
+      <description>Around 3 years ago, I was told by somewhat reputable sources on the Internet that having a website was a great way to impress prospective employers.</description>
+    </item>
+    
+    <item>
+      <title>Under Construction</title>
+      <link>https://www.leviodom.com/posts/under_construction/</link>
+      <pubDate>Mon, 01 May 2023 00:21:02 -0500</pubDate>
+      
+      <guid>https://www.leviodom.com/posts/under_construction/</guid>
+      <description>If you are seeing this, it means this site is still undergoing construction.</description>
+    </item>
+    
+  </channel>
 </rss>
