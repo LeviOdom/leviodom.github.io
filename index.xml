@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright :copyright: Levi Odom</copyright>
-    <lastBuildDate>Tue, 02 May 2023 23:45:44 -0500</lastBuildDate><atom:link href="https://www.leviodom.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 21:10:56 -0500</lastBuildDate><atom:link href="https://www.leviodom.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experience</title>
+      <link>https://www.leviodom.com/experience/</link>
+      <pubDate>Tue, 23 May 2023 21:10:56 -0500</pubDate>
+      
+      <guid>https://www.leviodom.com/experience/</guid>
+      <description>Skills #Server Administration &amp;ndash;</description>
+    </item>
+    
     <item>
       <title>The Plan</title>
       <link>https://www.leviodom.com/posts/theplan/</link>

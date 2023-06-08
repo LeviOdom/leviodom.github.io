@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>education on Levi Odom</title>
+    <link>https://www.leviodom.com/tags/education/</link>
+    <description>Recent content in education on Levi Odom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright :copyright: Levi Odom</copyright>
+    <lastBuildDate>Tue, 23 May 2023 21:10:56 -0500</lastBuildDate><atom:link href="https://www.leviodom.com/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experience</title>
+      <link>https://www.leviodom.com/experience/</link>
+      <pubDate>Tue, 23 May 2023 21:10:56 -0500</pubDate>
+      
+      <guid>https://www.leviodom.com/experience/</guid>
+      <description>Skills #Server Administration &amp;ndash;</description>
+    </item>
+    
+  </channel>
+</rss>
