@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright :copyright: Levi Odom</copyright>
-    <lastBuildDate>Tue, 23 May 2023 21:10:56 -0500</lastBuildDate><atom:link href="https://www.leviodom.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jun 2023 23:45:44 -0500</lastBuildDate><atom:link href="https://www.leviodom.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://www.leviodom.com/tags/blog/</link>
+      <pubDate>Mon, 12 Jun 2023 23:45:44 -0500</pubDate>
+      
+      <guid>https://www.leviodom.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>https://www.leviodom.com/tags/life/</link>
+      <pubDate>Mon, 12 Jun 2023 23:45:44 -0500</pubDate>
+      
+      <guid>https://www.leviodom.com/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life happens</title>
+      <link>https://www.leviodom.com/tags/life-happens/</link>
+      <pubDate>Mon, 12 Jun 2023 23:45:44 -0500</pubDate>
+      
+      <guid>https://www.leviodom.com/tags/life-happens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unexpected</title>
+      <link>https://www.leviodom.com/tags/unexpected/</link>
+      <pubDate>Mon, 12 Jun 2023 23:45:44 -0500</pubDate>
+      
+      <guid>https://www.leviodom.com/tags/unexpected/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>curriculum vitae</title>
       <link>https://www.leviodom.com/tags/curriculum-vitae/</link>
@@ -41,15 +77,6 @@
       <pubDate>Tue, 23 May 2023 21:10:56 -0500</pubDate>
       
       <guid>https://www.leviodom.com/tags/resume/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blog</title>
-      <link>https://www.leviodom.com/tags/blog/</link>
-      <pubDate>Tue, 02 May 2023 23:45:44 -0500</pubDate>
-      
-      <guid>https://www.leviodom.com/tags/blog/</guid>
       <description></description>
     </item>
     
